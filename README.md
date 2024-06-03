@@ -1,3 +1,3 @@
-# instaproject7
+# smallproject7
 
 animated radial menu
